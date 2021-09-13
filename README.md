@@ -1,9 +1,9 @@
-# ClojureScript with Fastify
+# ClojureScript with Fastify and Prisma 2
 
 ## Getting Started
 
 ```
-$ npx degit gustavofsantos/cljs-fastify your-awesome-project
+$ npx degit gustavofsantos/cljs-fastify-prisma your-awesome-project
 $ cd your-awesome-project && yarn install
 ```
 
