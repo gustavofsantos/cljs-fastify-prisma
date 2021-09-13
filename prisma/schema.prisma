@@ -9,3 +9,9 @@ datasource db {
 generator client {
   provider = "prisma-client-js"
 }
+
+model Todo {
+  id Int @id @default(autoincrement())
+  value String
+  state String
+}

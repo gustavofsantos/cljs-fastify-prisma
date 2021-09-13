@@ -1,4 +1,7 @@
 node_modules
+.shadow-cljs
 dist
+prisma/*.db
+
 # Keep environment variables out of version control
 .env
